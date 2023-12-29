@@ -1,1 +1,15 @@
+import json
+county_polygons = json.load(open('data/wk10/geojson-counties-fips.json'))
+In [8]:
+plot_sample=counties[counties['year']>2007] # subset the data to only include years after 2007 -- it would take too long to plot all of the data
 
+px.choropleth( # plot a choropleth map using the plotly express (px) library
+                plot_sample, # load the dataframe
+                locations='county_fips', # set the location column to the state code
+                geojson=county_polygons, # set the location mode to USA states (you could add your own custom geojson/spatial file here)
+                scope='usa', # set the scope to the USA, so that it only plots the states
+                color="unemployment", # set the color of the states to correspond to the unemployment rate
+                animation_frame=plot_sample["year"].astype(str), # set the animation frame to the date, creating a slider at the bottom of the map
+                color_continuous_scale=px.colors.sequential.Viridis, # set the color scale to Viridis, a commonly used color scale
+                range_color=[0, 10], # set the range of the color scale to 0-10
+                height=1000) # set the height of the map to 1000 pixels
