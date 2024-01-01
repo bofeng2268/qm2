@@ -1,0 +1,315 @@
+Feature Identifier,Feature Name
+http://opendatacommunities.org/id/geography/administration/lonb/E09000001,City of London
+http://opendatacommunities.org/id/geography/administration/lonb/E09000002,Barking and Dagenham
+http://opendatacommunities.org/id/geography/administration/lonb/E09000003,Barnet
+http://opendatacommunities.org/id/geography/administration/lonb/E09000004,Bexley
+http://opendatacommunities.org/id/geography/administration/lonb/E09000005,Brent
+http://opendatacommunities.org/id/geography/administration/lonb/E09000006,Bromley
+http://opendatacommunities.org/id/geography/administration/lonb/E09000007,Camden
+http://opendatacommunities.org/id/geography/administration/lonb/E09000008,Croydon
+http://opendatacommunities.org/id/geography/administration/lonb/E09000009,Ealing
+http://opendatacommunities.org/id/geography/administration/lonb/E09000010,Enfield
+http://opendatacommunities.org/id/geography/administration/lonb/E09000011,Greenwich
+http://opendatacommunities.org/id/geography/administration/lonb/E09000012,Hackney
+http://opendatacommunities.org/id/geography/administration/lonb/E09000013,Hammersmith and Fulham
+http://opendatacommunities.org/id/geography/administration/lonb/E09000014,Haringey
+http://opendatacommunities.org/id/geography/administration/lonb/E09000015,Harrow
+http://opendatacommunities.org/id/geography/administration/lonb/E09000016,Havering
+http://opendatacommunities.org/id/geography/administration/lonb/E09000017,Hillingdon
+http://opendatacommunities.org/id/geography/administration/lonb/E09000018,Hounslow
+http://opendatacommunities.org/id/geography/administration/lonb/E09000019,Islington
+http://opendatacommunities.org/id/geography/administration/lonb/E09000020,Kensington and Chelsea
+http://opendatacommunities.org/id/geography/administration/lonb/E09000021,Kingston upon Thames
+http://opendatacommunities.org/id/geography/administration/lonb/E09000022,Lambeth
+http://opendatacommunities.org/id/geography/administration/lonb/E09000023,Lewisham
+http://opendatacommunities.org/id/geography/administration/lonb/E09000024,Merton
+http://opendatacommunities.org/id/geography/administration/lonb/E09000025,Newham
+http://opendatacommunities.org/id/geography/administration/lonb/E09000026,Redbridge
+http://opendatacommunities.org/id/geography/administration/lonb/E09000027,Richmond upon Thames
+http://opendatacommunities.org/id/geography/administration/lonb/E09000028,Southwark
+http://opendatacommunities.org/id/geography/administration/lonb/E09000029,Sutton
+http://opendatacommunities.org/id/geography/administration/lonb/E09000030,Tower Hamlets
+http://opendatacommunities.org/id/geography/administration/lonb/E09000031,Waltham Forest
+http://opendatacommunities.org/id/geography/administration/lonb/E09000032,Wandsworth
+http://opendatacommunities.org/id/geography/administration/lonb/E09000033,Westminster
+http://opendatacommunities.org/id/geography/administration/md/E08000001,Bolton
+http://opendatacommunities.org/id/geography/administration/md/E08000002,Bury
+http://opendatacommunities.org/id/geography/administration/md/E08000003,Manchester
+http://opendatacommunities.org/id/geography/administration/md/E08000004,Oldham
+http://opendatacommunities.org/id/geography/administration/md/E08000005,Rochdale
+http://opendatacommunities.org/id/geography/administration/md/E08000006,Salford
+http://opendatacommunities.org/id/geography/administration/md/E08000007,Stockport
+http://opendatacommunities.org/id/geography/administration/md/E08000008,Tameside
+http://opendatacommunities.org/id/geography/administration/md/E08000009,Trafford
+http://opendatacommunities.org/id/geography/administration/md/E08000010,Wigan
+http://opendatacommunities.org/id/geography/administration/md/E08000011,Knowsley
+http://opendatacommunities.org/id/geography/administration/md/E08000012,Liverpool
+http://opendatacommunities.org/id/geography/administration/md/E08000013,St. Helens
+http://opendatacommunities.org/id/geography/administration/md/E08000014,Sefton
+http://opendatacommunities.org/id/geography/administration/md/E08000015,Wirral
+http://opendatacommunities.org/id/geography/administration/md/E08000016,Barnsley
+http://opendatacommunities.org/id/geography/administration/md/E08000017,Doncaster
+http://opendatacommunities.org/id/geography/administration/md/E08000018,Rotherham
+http://opendatacommunities.org/id/geography/administration/md/E08000019,Sheffield
+http://opendatacommunities.org/id/geography/administration/md/E08000021,Newcastle upon Tyne
+http://opendatacommunities.org/id/geography/administration/md/E08000022,North Tyneside
+http://opendatacommunities.org/id/geography/administration/md/E08000023,South Tyneside
+http://opendatacommunities.org/id/geography/administration/md/E08000024,Sunderland
+http://opendatacommunities.org/id/geography/administration/md/E08000025,Birmingham
+http://opendatacommunities.org/id/geography/administration/md/E08000026,Coventry
+http://opendatacommunities.org/id/geography/administration/md/E08000027,Dudley
+http://opendatacommunities.org/id/geography/administration/md/E08000028,Sandwell
+http://opendatacommunities.org/id/geography/administration/md/E08000029,Solihull
+http://opendatacommunities.org/id/geography/administration/md/E08000030,Walsall
+http://opendatacommunities.org/id/geography/administration/md/E08000031,Wolverhampton
+http://opendatacommunities.org/id/geography/administration/md/E08000032,Bradford
+http://opendatacommunities.org/id/geography/administration/md/E08000033,Calderdale
+http://opendatacommunities.org/id/geography/administration/md/E08000034,Kirklees
+http://opendatacommunities.org/id/geography/administration/md/E08000035,Leeds
+http://opendatacommunities.org/id/geography/administration/md/E08000036,Wakefield
+http://opendatacommunities.org/id/geography/administration/md/E08000037,Gateshead
+http://opendatacommunities.org/id/geography/administration/nmd/E07000008,Cambridge
+http://opendatacommunities.org/id/geography/administration/nmd/E07000009,East Cambridgeshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000010,Fenland
+http://opendatacommunities.org/id/geography/administration/nmd/E07000011,Huntingdonshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000012,South Cambridgeshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000026,Allerdale
+http://opendatacommunities.org/id/geography/administration/nmd/E07000027,Barrow-in-Furness
+http://opendatacommunities.org/id/geography/administration/nmd/E07000028,Carlisle
+http://opendatacommunities.org/id/geography/administration/nmd/E07000029,Copeland
+http://opendatacommunities.org/id/geography/administration/nmd/E07000030,Eden
+http://opendatacommunities.org/id/geography/administration/nmd/E07000031,South Lakeland
+http://opendatacommunities.org/id/geography/administration/nmd/E07000032,Amber Valley
+http://opendatacommunities.org/id/geography/administration/nmd/E07000033,Bolsover
+http://opendatacommunities.org/id/geography/administration/nmd/E07000034,Chesterfield
+http://opendatacommunities.org/id/geography/administration/nmd/E07000035,Derbyshire Dales
+http://opendatacommunities.org/id/geography/administration/nmd/E07000036,Erewash
+http://opendatacommunities.org/id/geography/administration/nmd/E07000037,High Peak
+http://opendatacommunities.org/id/geography/administration/nmd/E07000038,North East Derbyshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000039,South Derbyshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000040,East Devon
+http://opendatacommunities.org/id/geography/administration/nmd/E07000041,Exeter
+http://opendatacommunities.org/id/geography/administration/nmd/E07000042,Mid Devon
+http://opendatacommunities.org/id/geography/administration/nmd/E07000043,North Devon
+http://opendatacommunities.org/id/geography/administration/nmd/E07000044,South Hams
+http://opendatacommunities.org/id/geography/administration/nmd/E07000045,Teignbridge
+http://opendatacommunities.org/id/geography/administration/nmd/E07000046,Torridge
+http://opendatacommunities.org/id/geography/administration/nmd/E07000047,West Devon
+http://opendatacommunities.org/id/geography/administration/nmd/E07000061,Eastbourne
+http://opendatacommunities.org/id/geography/administration/nmd/E07000062,Hastings
+http://opendatacommunities.org/id/geography/administration/nmd/E07000063,Lewes
+http://opendatacommunities.org/id/geography/administration/nmd/E07000064,Rother
+http://opendatacommunities.org/id/geography/administration/nmd/E07000065,Wealden
+http://opendatacommunities.org/id/geography/administration/nmd/E07000066,Basildon
+http://opendatacommunities.org/id/geography/administration/nmd/E07000067,Braintree
+http://opendatacommunities.org/id/geography/administration/nmd/E07000068,Brentwood
+http://opendatacommunities.org/id/geography/administration/nmd/E07000069,Castle Point
+http://opendatacommunities.org/id/geography/administration/nmd/E07000070,Chelmsford
+http://opendatacommunities.org/id/geography/administration/nmd/E07000071,Colchester
+http://opendatacommunities.org/id/geography/administration/nmd/E07000072,Epping Forest
+http://opendatacommunities.org/id/geography/administration/nmd/E07000073,Harlow
+http://opendatacommunities.org/id/geography/administration/nmd/E07000074,Maldon
+http://opendatacommunities.org/id/geography/administration/nmd/E07000075,Rochford
+http://opendatacommunities.org/id/geography/administration/nmd/E07000076,Tendring
+http://opendatacommunities.org/id/geography/administration/nmd/E07000077,Uttlesford
+http://opendatacommunities.org/id/geography/administration/nmd/E07000078,Cheltenham
+http://opendatacommunities.org/id/geography/administration/nmd/E07000079,Cotswold
+http://opendatacommunities.org/id/geography/administration/nmd/E07000080,Forest of Dean
+http://opendatacommunities.org/id/geography/administration/nmd/E07000081,Gloucester
+http://opendatacommunities.org/id/geography/administration/nmd/E07000082,Stroud
+http://opendatacommunities.org/id/geography/administration/nmd/E07000083,Tewkesbury
+http://opendatacommunities.org/id/geography/administration/nmd/E07000084,Basingstoke and Deane
+http://opendatacommunities.org/id/geography/administration/nmd/E07000085,East Hampshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000086,Eastleigh
+http://opendatacommunities.org/id/geography/administration/nmd/E07000087,Fareham
+http://opendatacommunities.org/id/geography/administration/nmd/E07000088,Gosport
+http://opendatacommunities.org/id/geography/administration/nmd/E07000089,Hart
+http://opendatacommunities.org/id/geography/administration/nmd/E07000090,Havant
+http://opendatacommunities.org/id/geography/administration/nmd/E07000091,New Forest
+http://opendatacommunities.org/id/geography/administration/nmd/E07000092,Rushmoor
+http://opendatacommunities.org/id/geography/administration/nmd/E07000093,Test Valley
+http://opendatacommunities.org/id/geography/administration/nmd/E07000094,Winchester
+http://opendatacommunities.org/id/geography/administration/nmd/E07000095,Broxbourne
+http://opendatacommunities.org/id/geography/administration/nmd/E07000096,Dacorum
+http://opendatacommunities.org/id/geography/administration/nmd/E07000098,Hertsmere
+http://opendatacommunities.org/id/geography/administration/nmd/E07000099,North Hertfordshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000102,Three Rivers
+http://opendatacommunities.org/id/geography/administration/nmd/E07000103,Watford
+http://opendatacommunities.org/id/geography/administration/nmd/E07000105,Ashford
+http://opendatacommunities.org/id/geography/administration/nmd/E07000106,Canterbury
+http://opendatacommunities.org/id/geography/administration/nmd/E07000107,Dartford
+http://opendatacommunities.org/id/geography/administration/nmd/E07000108,Dover
+http://opendatacommunities.org/id/geography/administration/nmd/E07000109,Gravesham
+http://opendatacommunities.org/id/geography/administration/nmd/E07000110,Maidstone
+http://opendatacommunities.org/id/geography/administration/nmd/E07000111,Sevenoaks
+http://opendatacommunities.org/id/geography/administration/nmd/E07000112,Folkestone and Hythe
+http://opendatacommunities.org/id/geography/administration/nmd/E07000113,Swale
+http://opendatacommunities.org/id/geography/administration/nmd/E07000114,Thanet
+http://opendatacommunities.org/id/geography/administration/nmd/E07000115,Tonbridge and Malling
+http://opendatacommunities.org/id/geography/administration/nmd/E07000116,Tunbridge Wells
+http://opendatacommunities.org/id/geography/administration/nmd/E07000117,Burnley
+http://opendatacommunities.org/id/geography/administration/nmd/E07000118,Chorley
+http://opendatacommunities.org/id/geography/administration/nmd/E07000119,Fylde
+http://opendatacommunities.org/id/geography/administration/nmd/E07000120,Hyndburn
+http://opendatacommunities.org/id/geography/administration/nmd/E07000121,Lancaster
+http://opendatacommunities.org/id/geography/administration/nmd/E07000122,Pendle
+http://opendatacommunities.org/id/geography/administration/nmd/E07000123,Preston
+http://opendatacommunities.org/id/geography/administration/nmd/E07000124,Ribble Valley
+http://opendatacommunities.org/id/geography/administration/nmd/E07000125,Rossendale
+http://opendatacommunities.org/id/geography/administration/nmd/E07000126,South Ribble
+http://opendatacommunities.org/id/geography/administration/nmd/E07000127,West Lancashire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000128,Wyre
+http://opendatacommunities.org/id/geography/administration/nmd/E07000129,Blaby
+http://opendatacommunities.org/id/geography/administration/nmd/E07000130,Charnwood
+http://opendatacommunities.org/id/geography/administration/nmd/E07000131,Harborough
+http://opendatacommunities.org/id/geography/administration/nmd/E07000132,Hinckley and Bosworth
+http://opendatacommunities.org/id/geography/administration/nmd/E07000133,Melton
+http://opendatacommunities.org/id/geography/administration/nmd/E07000134,North West Leicestershire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000135,Oadby and Wigston
+http://opendatacommunities.org/id/geography/administration/nmd/E07000136,Boston
+http://opendatacommunities.org/id/geography/administration/nmd/E07000137,East Lindsey
+http://opendatacommunities.org/id/geography/administration/nmd/E07000138,Lincoln
+http://opendatacommunities.org/id/geography/administration/nmd/E07000139,North Kesteven
+http://opendatacommunities.org/id/geography/administration/nmd/E07000140,South Holland
+http://opendatacommunities.org/id/geography/administration/nmd/E07000141,South Kesteven
+http://opendatacommunities.org/id/geography/administration/nmd/E07000142,West Lindsey
+http://opendatacommunities.org/id/geography/administration/nmd/E07000143,Breckland
+http://opendatacommunities.org/id/geography/administration/nmd/E07000144,Broadland
+http://opendatacommunities.org/id/geography/administration/nmd/E07000145,Great Yarmouth
+http://opendatacommunities.org/id/geography/administration/nmd/E07000146,King's Lynn and West Norfolk
+http://opendatacommunities.org/id/geography/administration/nmd/E07000147,North Norfolk
+http://opendatacommunities.org/id/geography/administration/nmd/E07000148,Norwich
+http://opendatacommunities.org/id/geography/administration/nmd/E07000149,South Norfolk
+http://opendatacommunities.org/id/geography/administration/nmd/E07000150,Corby
+http://opendatacommunities.org/id/geography/administration/nmd/E07000151,Daventry
+http://opendatacommunities.org/id/geography/administration/nmd/E07000152,East Northamptonshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000153,Kettering
+http://opendatacommunities.org/id/geography/administration/nmd/E07000154,Northampton
+http://opendatacommunities.org/id/geography/administration/nmd/E07000155,South Northamptonshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000156,Wellingborough
+http://opendatacommunities.org/id/geography/administration/nmd/E07000163,Craven
+http://opendatacommunities.org/id/geography/administration/nmd/E07000164,Hambleton
+http://opendatacommunities.org/id/geography/administration/nmd/E07000165,Harrogate
+http://opendatacommunities.org/id/geography/administration/nmd/E07000166,Richmondshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000167,Ryedale
+http://opendatacommunities.org/id/geography/administration/nmd/E07000168,Scarborough
+http://opendatacommunities.org/id/geography/administration/nmd/E07000169,Selby
+http://opendatacommunities.org/id/geography/administration/nmd/E07000170,Ashfield
+http://opendatacommunities.org/id/geography/administration/nmd/E07000171,Bassetlaw
+http://opendatacommunities.org/id/geography/administration/nmd/E07000172,Broxtowe
+http://opendatacommunities.org/id/geography/administration/nmd/E07000173,Gedling
+http://opendatacommunities.org/id/geography/administration/nmd/E07000174,Mansfield
+http://opendatacommunities.org/id/geography/administration/nmd/E07000175,Newark and Sherwood
+http://opendatacommunities.org/id/geography/administration/nmd/E07000176,Rushcliffe
+http://opendatacommunities.org/id/geography/administration/nmd/E07000177,Cherwell
+http://opendatacommunities.org/id/geography/administration/nmd/E07000178,Oxford
+http://opendatacommunities.org/id/geography/administration/nmd/E07000179,South Oxfordshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000180,Vale of White Horse
+http://opendatacommunities.org/id/geography/administration/nmd/E07000181,West Oxfordshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000187,Mendip
+http://opendatacommunities.org/id/geography/administration/nmd/E07000188,Sedgemoor
+http://opendatacommunities.org/id/geography/administration/nmd/E07000189,South Somerset
+http://opendatacommunities.org/id/geography/administration/nmd/E07000192,Cannock Chase
+http://opendatacommunities.org/id/geography/administration/nmd/E07000193,East Staffordshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000194,Lichfield
+http://opendatacommunities.org/id/geography/administration/nmd/E07000195,Newcastle-under-Lyme
+http://opendatacommunities.org/id/geography/administration/nmd/E07000196,South Staffordshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000197,Stafford
+http://opendatacommunities.org/id/geography/administration/nmd/E07000198,Staffordshire Moorlands
+http://opendatacommunities.org/id/geography/administration/nmd/E07000199,Tamworth
+http://opendatacommunities.org/id/geography/administration/nmd/E07000200,Babergh
+http://opendatacommunities.org/id/geography/administration/nmd/E07000202,Ipswich
+http://opendatacommunities.org/id/geography/administration/nmd/E07000203,Mid Suffolk
+http://opendatacommunities.org/id/geography/administration/nmd/E07000207,Elmbridge
+http://opendatacommunities.org/id/geography/administration/nmd/E07000208,Epsom and Ewell
+http://opendatacommunities.org/id/geography/administration/nmd/E07000209,Guildford
+http://opendatacommunities.org/id/geography/administration/nmd/E07000210,Mole Valley
+http://opendatacommunities.org/id/geography/administration/nmd/E07000211,Reigate and Banstead
+http://opendatacommunities.org/id/geography/administration/nmd/E07000212,Runnymede
+http://opendatacommunities.org/id/geography/administration/nmd/E07000213,Spelthorne
+http://opendatacommunities.org/id/geography/administration/nmd/E07000214,Surrey Heath
+http://opendatacommunities.org/id/geography/administration/nmd/E07000215,Tandridge
+http://opendatacommunities.org/id/geography/administration/nmd/E07000216,Waverley
+http://opendatacommunities.org/id/geography/administration/nmd/E07000217,Woking
+http://opendatacommunities.org/id/geography/administration/nmd/E07000218,North Warwickshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000219,Nuneaton and Bedworth
+http://opendatacommunities.org/id/geography/administration/nmd/E07000220,Rugby
+http://opendatacommunities.org/id/geography/administration/nmd/E07000221,Stratford-on-Avon
+http://opendatacommunities.org/id/geography/administration/nmd/E07000222,Warwick
+http://opendatacommunities.org/id/geography/administration/nmd/E07000223,Adur
+http://opendatacommunities.org/id/geography/administration/nmd/E07000224,Arun
+http://opendatacommunities.org/id/geography/administration/nmd/E07000225,Chichester
+http://opendatacommunities.org/id/geography/administration/nmd/E07000226,Crawley
+http://opendatacommunities.org/id/geography/administration/nmd/E07000227,Horsham
+http://opendatacommunities.org/id/geography/administration/nmd/E07000228,Mid Sussex
+http://opendatacommunities.org/id/geography/administration/nmd/E07000229,Worthing
+http://opendatacommunities.org/id/geography/administration/nmd/E07000234,Bromsgrove
+http://opendatacommunities.org/id/geography/administration/nmd/E07000235,Malvern Hills
+http://opendatacommunities.org/id/geography/administration/nmd/E07000236,Redditch
+http://opendatacommunities.org/id/geography/administration/nmd/E07000237,Worcester
+http://opendatacommunities.org/id/geography/administration/nmd/E07000238,Wychavon
+http://opendatacommunities.org/id/geography/administration/nmd/E07000239,Wyre Forest
+http://opendatacommunities.org/id/geography/administration/nmd/E07000240,St Albans
+http://opendatacommunities.org/id/geography/administration/nmd/E07000241,Welwyn Hatfield
+http://opendatacommunities.org/id/geography/administration/nmd/E07000242,East Hertfordshire
+http://opendatacommunities.org/id/geography/administration/nmd/E07000243,Stevenage
+http://opendatacommunities.org/id/geography/administration/nmd/E07000244,East Suffolk
+http://opendatacommunities.org/id/geography/administration/nmd/E07000245,West Suffolk
+http://opendatacommunities.org/id/geography/administration/nmd/E07000246,Somerset West and Taunton
+http://opendatacommunities.org/id/geography/administration/ua/E06000001,Hartlepool
+http://opendatacommunities.org/id/geography/administration/ua/E06000002,Middlesbrough
+http://opendatacommunities.org/id/geography/administration/ua/E06000003,Redcar and Cleveland
+http://opendatacommunities.org/id/geography/administration/ua/E06000004,Stockton-on-Tees
+http://opendatacommunities.org/id/geography/administration/ua/E06000005,Darlington
+http://opendatacommunities.org/id/geography/administration/ua/E06000006,Halton
+http://opendatacommunities.org/id/geography/administration/ua/E06000007,Warrington
+http://opendatacommunities.org/id/geography/administration/ua/E06000008,Blackburn with Darwen
+http://opendatacommunities.org/id/geography/administration/ua/E06000009,Blackpool
+http://opendatacommunities.org/id/geography/administration/ua/E06000010,"Kingston upon Hull, City of"
+http://opendatacommunities.org/id/geography/administration/ua/E06000011,East Riding of Yorkshire
+http://opendatacommunities.org/id/geography/administration/ua/E06000012,North East Lincolnshire
+http://opendatacommunities.org/id/geography/administration/ua/E06000013,North Lincolnshire
+http://opendatacommunities.org/id/geography/administration/ua/E06000014,York
+http://opendatacommunities.org/id/geography/administration/ua/E06000015,Derby
+http://opendatacommunities.org/id/geography/administration/ua/E06000016,Leicester
+http://opendatacommunities.org/id/geography/administration/ua/E06000017,Rutland
+http://opendatacommunities.org/id/geography/administration/ua/E06000018,Nottingham
+http://opendatacommunities.org/id/geography/administration/ua/E06000019,"Herefordshire, County of"
+http://opendatacommunities.org/id/geography/administration/ua/E06000020,Telford and Wrekin
+http://opendatacommunities.org/id/geography/administration/ua/E06000021,Stoke-on-Trent
+http://opendatacommunities.org/id/geography/administration/ua/E06000022,Bath and North East Somerset
+http://opendatacommunities.org/id/geography/administration/ua/E06000023,"Bristol, City of"
+http://opendatacommunities.org/id/geography/administration/ua/E06000024,North Somerset
+http://opendatacommunities.org/id/geography/administration/ua/E06000025,South Gloucestershire
+http://opendatacommunities.org/id/geography/administration/ua/E06000026,Plymouth
+http://opendatacommunities.org/id/geography/administration/ua/E06000027,Torbay
+http://opendatacommunities.org/id/geography/administration/ua/E06000030,Swindon
+http://opendatacommunities.org/id/geography/administration/ua/E06000031,Peterborough
+http://opendatacommunities.org/id/geography/administration/ua/E06000032,Luton
+http://opendatacommunities.org/id/geography/administration/ua/E06000033,Southend-on-Sea
+http://opendatacommunities.org/id/geography/administration/ua/E06000034,Thurrock
+http://opendatacommunities.org/id/geography/administration/ua/E06000035,Medway
+http://opendatacommunities.org/id/geography/administration/ua/E06000036,Bracknell Forest
+http://opendatacommunities.org/id/geography/administration/ua/E06000037,West Berkshire
+http://opendatacommunities.org/id/geography/administration/ua/E06000038,Reading
+http://opendatacommunities.org/id/geography/administration/ua/E06000039,Slough
+http://opendatacommunities.org/id/geography/administration/ua/E06000040,Windsor and Maidenhead
+http://opendatacommunities.org/id/geography/administration/ua/E06000041,Wokingham
+http://opendatacommunities.org/id/geography/administration/ua/E06000042,Milton Keynes
+http://opendatacommunities.org/id/geography/administration/ua/E06000043,Brighton and Hove
+http://opendatacommunities.org/id/geography/administration/ua/E06000044,Portsmouth
+http://opendatacommunities.org/id/geography/administration/ua/E06000045,Southampton
+http://opendatacommunities.org/id/geography/administration/ua/E06000046,Isle of Wight
+http://opendatacommunities.org/id/geography/administration/ua/E06000047,County Durham
+http://opendatacommunities.org/id/geography/administration/ua/E06000049,Cheshire East
+http://opendatacommunities.org/id/geography/administration/ua/E06000050,Cheshire West and Chester
+http://opendatacommunities.org/id/geography/administration/ua/E06000051,Shropshire
+http://opendatacommunities.org/id/geography/administration/ua/E06000052,Cornwall
+http://opendatacommunities.org/id/geography/administration/ua/E06000053,Isles of Scilly
+http://opendatacommunities.org/id/geography/administration/ua/E06000054,Wiltshire
+http://opendatacommunities.org/id/geography/administration/ua/E06000055,Bedford
+http://opendatacommunities.org/id/geography/administration/ua/E06000056,Central Bedfordshire
+http://opendatacommunities.org/id/geography/administration/ua/E06000057,Northumberland
+http://opendatacommunities.org/id/geography/administration/ua/E06000058,"Bournemouth, Christchurch and Poole"
+http://opendatacommunities.org/id/geography/administration/ua/E06000059,Dorset
+http://opendatacommunities.org/id/geography/administration/ua/E06000060,Buckinghamshire
