@@ -1,34 +1,34 @@
-;;;;;;
-Local Authority;Normalized accesibility score (/100);Share of transport reliant (/100);;;;
-Barking and Dagenham;44,4166667;74,0661539;;;;
-Barnet;52,4166667;69,3411703;;;;
-Bexley;61,0833333;73,8076102;;;;
-Brent;41,0833333;74,0179287;;;;
-Bromley;59;76,7790997;;;;
-Camden;59,5833333;79,6280033;;;;
-Croydon;60,5;78,3052578;;;;
-Ealing;57,6666667;75,5863516;;;;
-Enfield;45,3333333;74,6033515;;;;
-Greenwich;65,4166667;82,5933231;;;;
-Hackney;54,75;82,350081;;;;
-Hammersmith and Fulham;66,6666667;82,0172384;;;;
-Haringey;47,75;77,2110539;;;;
-Harrow;38,9166667;71,6872481;;;;
-Havering;65;74,9798434;;;;
-Hillingdon;54,75;68,5602797;;;;
-Hounslow;43,75;80,8551029;;;;
-Islington;45,8333333;77,9539686;;;;
-Kensington and Chelsea;50;86,663754;;;;
-Kingston upon Thames;46,6666667;79,3133242;;;;
-Lambeth;58,3333333;85,2393079;;;;
-Lewisham;62,0833333;84,5125786;;;;
-Merton;43,1666667;80,3219829;;;;
-Newham;62,5;78,542539;;;;
-Redbridge;75;69,0454324;;;;
-Richmond upon Thames;48,8333333;78,0740236;;;;
-Southwark;51,4166667;84,0083766;;;;
-Sutton;59,25;75,3765111;;;;
-Tower Hamlets;51,6666667;82,2853583;;;;
-Waltham Forest;47,9166667;74,2303927;;;;
-Wandsworth;58,3333333;82,3416302;;;;
-Westminster;69,0833333;82,7359363;;;;
+;;
+Local Authority;Normalized accesibility score (/100);Share of transport reliant (/100)
+Barking and Dagenham;44,4166667;74,0661539
+Barnet;52,4166667;69,3411703
+Bexley;61,0833333;73,8076102
+Brent;41,0833333;74,0179287
+Bromley;59;76,7790997
+Camden;59,5833333;79,6280033
+Croydon;60,5;78,3052578
+Ealing;57,6666667;75,5863516
+Enfield;45,3333333;74,6033515
+Greenwich;65,4166667;82,5933231
+Hackney;54,75;82,350081
+Hammersmith and Fulham;66,6666667;82,0172384
+Haringey;47,75;77,2110539
+Harrow;38,9166667;71,6872481
+Havering;65;74,9798434
+Hillingdon;54,75;68,5602797
+Hounslow;43,75;80,8551029
+Islington;45,8333333;77,9539686
+Kensington and Chelsea;50;86,663754
+Kingston upon Thames;46,6666667;79,3133242
+Lambeth;58,3333333;85,2393079
+Lewisham;62,0833333;84,5125786
+Merton;43,1666667;80,3219829
+Newham;62,5;78,542539
+Redbridge;75;69,0454324
+Richmond upon Thames;48,8333333;78,0740236
+Southwark;51,4166667;84,0083766
+Sutton;59,25;75,3765111
+Tower Hamlets;51,6666667;82,2853583
+Waltham Forest;47,9166667;74,2303927
+Wandsworth;58,3333333;82,3416302
+Westminster;69,0833333;82,7359363
